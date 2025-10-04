@@ -33,7 +33,7 @@ const AppRoutes = () => {
           }
         />
         <Route
-          path="/saved"
+          path="/save"
           element={
             <>
               <Saved />

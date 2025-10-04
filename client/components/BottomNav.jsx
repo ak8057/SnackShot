@@ -33,7 +33,7 @@ const BottomNav = () => {
         </NavLink>
 
         <NavLink
-          to="/saved"
+          to="/save"
           className={({ isActive }) =>
             `bottom-nav__item ${isActive ? "is-active" : ""}`
           }
